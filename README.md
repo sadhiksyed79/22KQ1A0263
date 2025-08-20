@@ -1,5 +1,6 @@
 # 22KQ1A0263
-# 🎓 College Practice Repository  
+# 🎓 College Practice Repository 
+---
 
 ## 📌 Overview  
 This repository contains my **daily practice codes, assignments, and projects** 
