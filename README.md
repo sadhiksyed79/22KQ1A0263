@@ -1,16 +1,19 @@
 # 22KQ1A0263
-📘 College Daily Practice – SQL & Python
+# 🎓 College Practice Repository  
+
+## 📌 Overview  
+This repository contains my **daily practice codes, assignments, and projects** 
+It reflects my **learning journey in programming, databases, and problem-solving**, covering various concepts in **Python, SQL, and more**.  
+
 ---
+## 🛠️ Skills & Technologies Practiced  
+- **Programming:** Python  
+- **Databases:** SQL (MySQL)
+- **Tools:** VS Code, MySQL Workbench
 
-📌 Overview
 
-This *repository* contains my daily practice exercises from college, covering SQL, Python, and related technologies. The purpose of this repo is to document my learning journey, problem-solving approach, and project development.
----
-
-🛠 Tech Stack
-
-Programming Languages: Python, SQL
-
-Database: MySQL
-
-Tools: VS Code, MySQL Workbench
+## 🎯 Purpose  
+- Strengthen **core coding concepts**  
+- Build a strong **foundation in databases & backend**  
+- Prepare for **placements & technical interviews**  
+- Document my **learning progress** in one place
