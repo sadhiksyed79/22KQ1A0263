@@ -11,7 +11,7 @@ It reflects my **learning journey in programming, databases, and problem-solving
 - **Databases:** SQL (MySQL)
 - **Tools:** VS Code, MySQL Workbench
 
-
+---
 ## 🎯 Purpose  
 - Strengthen **core coding concepts**  
 - Build a strong **foundation in databases & backend**  
